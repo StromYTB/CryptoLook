@@ -1,0 +1,17 @@
+.currency{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 2vh;
+    margin-left:5vh;
+    margin-right: 5vh;
+}
+
+.searchButtons{
+    display: flex;
+    justify-content: right;
+}
+
+.search{
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
